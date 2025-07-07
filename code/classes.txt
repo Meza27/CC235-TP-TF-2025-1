@@ -1,0 +1,15 @@
+Akuma_Street_Fighter
+Balrog_Street_Fighter
+Blanka_Street_Fighter
+Cammy_Street_Fighter
+Chun-Li_Street_Fighter
+Dhalsim_Street_Fighter
+E._Honda_Street_Fighter
+Guile_Street_Fighter
+Ken_Masters_Street_Fighter
+M._Bison_Street_Fighter
+Ryu_Street_Fighter
+Sagat_Street_Fighter
+Sakura_Street_Fighter
+Vega_Street_Fighter
+Zangief_Street_Fighter
